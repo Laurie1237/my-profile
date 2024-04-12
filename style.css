@@ -1,0 +1,99 @@
+body {
+	background-color: #F5F5DC; /* Beige background */
+	color: #3E4C47; /* Dark gray-green text */
+	font-family: "Times New Roman", serif; /* Using Times New Roman */
+	line-height: 20px;
+	text-align: center;
+}
+
+.btn-blue {
+	background-color: #6A994E; /* Earthy green */
+	color: floralwhite;
+	padding: 6px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue:hover {
+	background-color: #A7C957; /* Lighter green */
+	color: floralwhite;
+}
+
+h1, h2, h3, h4 {
+	color: #5A3A22; /* Dark brown */
+	font-family: "Impact", sans-serif; /* Keeping Impact for headings for emphasis */
+	text-align: center;
+	letter-spacing: 0.25em;
+}
+
+a {
+	text-decoration: none;
+	color: #8A817C; /* Soft gray */
+}
+
+a:hover {
+	color: #BC6C25; /* Terra cotta */
+}
+
+.profile {
+	border-radius: 50%;
+	max-width: 100%;
+	height: auto;
+}
+
+#intro {
+	background-color: #A8D5BA; /* Soft mint */
+}
+
+#section2 {
+	background-color: #FFE8D6; /* Pale peach */
+}
+
+#section3 {
+	background-color: #F4F1EA; /* Light beige */
+}
+
+#section4 {
+	background-color: #DDBEA9; /* Warm sand */
+}
+
+#section5 {
+	background-color: #CB997E; /* Desert earth */
+}
+
+.font-styles {
+	margin-bottom: 5px;
+	justify-content: center;
+	border-radius: 1px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+	margin: 70px;
+	border: 2px solid;
+	padding: 12px;
+	font-family: "Times New Roman", serif; /* Applying Times New Roman to specific styled sections */
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+	font-family: "Times New Roman", serif; /* Applying Times New Roman to list items */
+}
+
+.list-inline i {
+	font-size: 30px;
+	color: #FFDDCC; /* Soft peach */
+}
+
+.list-inline i:hover {
+	color: #99154E; /* Dark red */
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
